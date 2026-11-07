@@ -3958,7 +3958,7 @@ var cnames_active = {
    * <3
    */
 }
-"yourcompany": {
+"newal": {
   "repo": "https://github.com/abdullahalsalim/newalbsr",
   "target": "abdullahalsalim.github.io"
 }
